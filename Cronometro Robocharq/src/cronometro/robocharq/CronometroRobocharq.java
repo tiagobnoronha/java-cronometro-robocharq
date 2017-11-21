@@ -16,7 +16,8 @@ public class CronometroRobocharq {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        
+        JPrincForm prin = new JPrincForm();
+        prin.setVisible(true);
     }
     
 }
